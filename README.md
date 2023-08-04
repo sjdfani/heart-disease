@@ -1,6 +1,6 @@
-# Heart disease prediction
+# Heart disease
 
-This project predict you have heart disease or not with your information.
+Heart disease a project to predict with your information for recognize do you have heart disease or not?!!
 
 ## Usage
 
